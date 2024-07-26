@@ -1,4 +1,4 @@
-Usuario(ID), Plano de Contrato, Atividade, Tempo de Contrato(Anos)
+Usuario(ID), Plano(Contrato), Atividade, TempoContrato(Anos)
 0,3,0,2
 1,0,0,0
 2,2,0,10
